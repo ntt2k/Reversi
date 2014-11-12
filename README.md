@@ -12,7 +12,7 @@ Reversi (Othello) is a strategy board game for two players, played on an 8×8 un
 
 The program
 
-This project is to build a graphical user interface that implements the same Othello game as the previous project. As before, the user will begin by selecting a set of options that configure how the game will be played; the game will then be played by asking users to make moves in a graphical window, continuing untli the game is complete, at which point the game has ended and the window can be dismissed.
+This project is to build a graphical user interface that implements the Othello game. As before, the user will begin by selecting a set of options that configure how the game will be played; the game will then be played by asking users to make moves in a graphical window, continuing until the game is complete, at which point the game has ended and the window can be dismissed.
 
 Some details about the GUI-based version of Othello
 
