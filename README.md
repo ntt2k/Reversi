@@ -1,6 +1,6 @@
 On Linux / MacOS / *nix system run command :
 
-$ python3 ./user_interface.py
+$ python3 ./user_gui.py
 
 
 ![ScreenShot](screenshot.png)
