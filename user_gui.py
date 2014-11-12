@@ -1,4 +1,4 @@
-# Trung Nguyen 14853167
+# Trung Nguyen
 
 import othello
 import coordinate
